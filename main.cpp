@@ -27,6 +27,8 @@ int main(int argc, char *argv[])
     //--b; // --演算子は使えない
     // b = 0 / 0; // arithmetic exception
 
+    // yey
+
     return a.exec();
 }
 
